@@ -271,6 +271,7 @@ module Net # :nodoc:
         'com' => :generic,
         'net' => :generic,
         'org' => :generic,
+        'info' => :generic,
         'biz' => :generic_restricted,
         'edu' => :generic_restricted,
         'gov' => :generic_restricted,
